@@ -1,0 +1,11 @@
+pdgc-site/
+  public/
+    images/
+      logo-color.png
+      logo-dark.png
+      hero.jpg
+      paypal-qr.png
+  src/
+    App.tsx
+    main.tsx
+    ...
